@@ -1,0 +1,1 @@
+2022/07/11 00:57:46 main.go:22: Calculation failed:  Negative lenght or height: lenght = -7, height = 5
