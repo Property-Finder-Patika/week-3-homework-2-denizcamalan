@@ -2,9 +2,9 @@
 
 ## Exercises
 
-- [create_rectangle exercise](./example/create_rectangle)
+- [create_rectangle exercise](./exercises/create_rectangle)
 
-- [number_guessing_game](./example/number_guessing_game)
+- [number_guessing_game](./exercises/number_guessing_game)
 
 ## inancgumus/learngo
 
